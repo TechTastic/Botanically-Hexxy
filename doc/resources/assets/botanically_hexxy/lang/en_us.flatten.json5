@@ -1,0 +1,8 @@
+{
+  hexdoc: {
+    botanically_hexxy: {
+      title: "Botanically Hexxy Book",
+      description: "A Botania x Hexcasting Interop Addon",
+    },
+  }
+}

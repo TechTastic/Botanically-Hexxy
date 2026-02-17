@@ -1,0 +1,46 @@
+modLoader = "kotlinforforge"
+loaderVersion = "[${versions.kotlin_forge},)"
+license = "MIT"
+
+[[mods]]
+modId = "botanically_hexxy"
+version = "${version}"
+displayName = "Botanically Hexxy"
+logoFile = "assets/botanically_hexxy/icon.png"
+authors = "TechTastic"
+description = "A Botania x Hexcasting Interop Addon"
+
+[[dependencies.botanically_hexxy]]
+modId = "forge"
+mandatory = true
+versionRange = "[${versions.forge_dependency},)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.botanically_hexxy]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[${versions.minecraft},)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.botanically_hexxy]]
+modId = "architectury"
+mandatory = true
+versionRange = "[${versions.architectury},)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.botanically_hexxy]]
+modId = "cloth_config"
+mandatory = true
+versionRange = "[${versions.cloth_config},)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.botanically_hexxy]]
+modId = "hexcasting"
+mandatory = true
+versionRange = "[${versions.hexcasting},)"
+ordering = "NONE"
+side = "BOTH"

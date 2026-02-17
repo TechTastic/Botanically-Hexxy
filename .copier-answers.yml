@@ -1,0 +1,21 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+# https://copier.readthedocs.io/en/stable/updating/#never-change-the-answers-file-manually
+_commit: v2.2.4
+_src_path: gh:FallingColors/hexdummy
+advanced: true
+capitalize_platforms: false
+classname: BotanicallyHexxy
+default_branch: main
+description: A Botania x Hexcasting Interop Addon
+display_name: Botanically Hexxy
+github_repo: Botanically-Hexxy
+github_user: TechTastic
+homepage_url: https://techtastic.github.io/Botanically-Hexxy
+java_package: io.github.techtastic.botanically_hexxy
+kotlin_package: io.github.techtastic.botanically_hexxy
+mappings_name: Mojmap
+minecraft_version_in_mod_version: false
+mit_license: true
+mod_version: 1.0.0
+modid: botanically_hexxy
+sources_url: https://github.com/TechTastic/Botanically-Hexxy
